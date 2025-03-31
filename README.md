@@ -1,2 +1,2 @@
-# pub_pkg
+# pub-pkg
 Public repository to libraries
